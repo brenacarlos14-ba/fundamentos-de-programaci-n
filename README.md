@@ -25,3 +25,12 @@ SEMANA3
 3. ej tranqui sem2.ipynb(olvide que es sem3😢)
 4. ejercicicos_extra_semana3.md
 5. sem3 ejercicios.ipynb
+
+SEMANA4
+1. actividad4_tablapitagoras.md
+2. actividad4sem.ipynb
+3. ejercicios_semana4.md
+4. ejercicios4sem.ipynb
+5. semana4.md
+
+ SEMANA5
