@@ -33,4 +33,13 @@ SEMANA4
 4. ejercicios4sem.ipynb
 5. semana4.md
 
- SEMANA5
+SEMANA5
+1. actividad5_menumodular.md
+2. ejercicio_semana5.md
+3. ejerciciomid.ipynb
+4. entregables_semana5.md
+5. extras5.ipynb
+6. semana5.md
+7. semana5.py
+
+SEMANA6
